@@ -8,6 +8,7 @@ function App() {
       <header className="App-header">
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <img src={pic}></img>
+        <img src="./pic.jpg" alt="2nd pic"></img>
       </header>
     </div>
   );
